@@ -2,7 +2,7 @@
 
 A list of useful softwares.
 
-| Name                         | Purpose                                                                                 | Site                                            |
+| Name                         | Purpose                                                                                 | Website                                            |
 |------------------------------|-----------------------------------------------------------------------------------------|-------------------------------------------------|
 | mRemoteNG                    | RDP manager with support to tabbed connections                                          | https://mremoteng.org/                          |
 | Shotcut                      | Video editor                                                                            | https://shotcut.org/                            |
