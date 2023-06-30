@@ -13,7 +13,7 @@ A list of useful softwares.
 | Godot Engine                 | Game Engine                                                                | [https://godotengine.org/](https://godotengine.org/)      |
 | Scribus                      | Publishing software                                                        | [https://www.scribus.net/](https://www.scribus.net/)      |
 | ShareX                       | Screen capture, file sharing and productivity tool                         | [https://getsharex.com/](https://getsharex.com/)          |
-
+| qBittorrent | Torrent tool | [https://www.qbittorrent.org/](https://www.qbittorrent.org/) |
 <!--
 |                             |                                                                             |                                                           |
 -->
